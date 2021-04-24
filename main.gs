@@ -122,7 +122,7 @@ const updateCalender = (start, end, contestName, rated) => {
   );
 
   const calendarId = PropertiesService.getScriptProperties().getProperty(
-    "calenderID"
+    "calendarID"
   );
 
   const getService = () => {
