@@ -1,0 +1,2 @@
+# AtCoderUpcomingContestCrawler
+Atcoderの開催予定コンテストを取得しカレンダーにイベント作成するbot
